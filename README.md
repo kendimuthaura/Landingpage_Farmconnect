@@ -20,13 +20,9 @@ FarmConnect is a comprehensive agricultural management system designed to empowe
     |   ├── components/
     |   └── ├── pages/
     |            └── about.js
-    |            └── clients.js
+    |            └── FAQ.js
     |            └── contact.js
-    |            └── demo.js
-    |            └── features.js
-    |            └── home.js
-    |            └── onsale.js
-    |            └── service.js
+    |           
     |     └── navbar.js
     |     └── footer.js
     └── App.js
