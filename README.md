@@ -1,7 +1,6 @@
 <h1 align="center">Farm connect Landing Page</h1>
 <p align="center">
-  
-![main](https://github.com/TheMostafax/My_Real_Estate/assets/81190585/d2415a1a-1a8f-4d05-892b-7aa49884fe8a)
+
 
 </p>
 
