@@ -108,12 +108,12 @@ const Navbar = () => {
       </ul>
       <div className="hidden md:flex">
       <button className="px-6 py-3 h-12 bg-transparent border border-green-800 text-green rounded-full shadow-lg hover:bg-green-900 hover:text-white mx-2">
-      <Link to="contact" smooth={true} duration={500}>
+      <Link to="http://localhost:3005/login" smooth={true} duration={500}>
       Sign Up
           </Link>
             </button>
             <button className="px-6 py-3 h-12 bg-transparent border border-green-800 text-green rounded-full shadow-lg hover:bg-green-900 hover:text-white mx-2">
-      <Link to="/signin" smooth={true} duration={500}>
+      <Link to="http://localhost:3002/register" smooth={true} duration={500}>
             Sign In
           </Link>
             </button>
